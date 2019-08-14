@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\source\\codeworks\\pressure\\pressure.csproj": {}
+  },
+  "projects": {
+    "C:\\source\\codeworks\\pressure\\pressure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\source\\codeworks\\pressure\\pressure.csproj",
+        "projectName": "pressure",
+        "projectPath": "C:\\source\\codeworks\\pressure\\pressure.csproj",
+        "packagesPath": "C:\\Users\\Lynne\\.nuget\\packages\\",
+        "outputPath": "C:\\source\\codeworks\\pressure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lynne\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
